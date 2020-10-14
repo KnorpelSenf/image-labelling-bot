@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Build output
+index.js
+bot.js
+label-detection.js
+
+# Google Cloud Vision AI credentials
+vision-credentials.json
